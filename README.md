@@ -49,4 +49,3 @@ Cuando dos personas modifican la misma línea de un archivo y Git no puede decid
 Dominar estos conceptos es fundamental para cualquier profesional del software. GitHub no es solo un sitio para guardar código; es una plataforma social que potencia la colaboración global, la calidad del software mediante revisiones de pares y la eficiencia a través de la automatización.
 
 ---
-*Este documento fue generado para fines educativos sobre control de versiones y DevOps.*
