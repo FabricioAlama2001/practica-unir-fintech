@@ -1,0 +1,8 @@
+zapato
+casa
+arbol
+banco
+perro
+mesa
+avion
+libro
